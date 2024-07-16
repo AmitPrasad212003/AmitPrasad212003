@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Aspiring Fullstack developer<br>📸 Can visualize and capture moments<br>🐍 Currently exploring Django<br>⚛️ Learning Next.js and React Native<br>💬 Ask me about web development
+👋 Aspiring Fullstack developer<br>🐍 Currently exploring Django<br>💬 Ask me about web development and Python
 
 
 ## 🌐 Socials:
